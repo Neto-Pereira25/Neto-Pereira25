@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Neto Pereira!
 
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje estudo Tecnologia em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando Python, JavaScript, HTML, CSS
 - 📫 Contate-me no email: devneto203@gmail.com
 - 😄 Pronouns: ele/dele
