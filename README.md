@@ -38,7 +38,7 @@
 ### Landing Page
 <p>
   Este projeto consiste numa landing page com design responsivo, onde coloquei em prática meus conhecimentos na parte de <b>HTML5</b> e <b>CSS3</b>
-  <a href="estudoswebjosenetolandingpage.netlify.app">Acessar Landing Page</a>
+  <a href="estudoswebjosenetolandingpage.netlify.app" target="_blank">Acessar Landing Page</a>
 </p>
 
 ##
