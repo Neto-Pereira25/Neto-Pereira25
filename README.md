@@ -1,4 +1,4 @@
-## Olá! Eu sou o Neto Pereira!
+# Olá! Eu sou o Neto Pereira!
 
 
 - 🔭 Hoje estudo Tecnologia em Análise e Desenvolvimento de Sistemas no IFPE
@@ -27,12 +27,21 @@
   
 </div>
 
-##
+## 
 
 <div>
   <a href="https://instagram.com/neto_pereira21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josé-pereira-da-silva-neto-333370216" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+## Meus Projetos
+### Landing Page
+<p>
+  Este projeto consiste numa landing page com design responsivo, onde coloquei em prática meus conhecimentos na parte de <b>HTML5</b> e <b>CSS3</b>
+  <a href="estudoswebjosenetolandingpage.netlify.app">Acessar Landing Page</a>
+</p>
+
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neto-Pereira25/Neto-Pereira25/output/github-contribution-grid-snake-dark.svg">
