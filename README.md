@@ -1,4 +1,4 @@
-# Olá! Eu sou o Neto Pereira!
+# Olá! Eu sou o José Neto!
 
 
 - 🔭 Hoje estudo Tecnologia em Análise e Desenvolvimento de Sistemas no IFPE
