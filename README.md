@@ -1,33 +1,38 @@
 # Olá! Eu sou o José Neto!
 
+-  Hoje estudo Tecnologia em Análise e Desenvolvimento de Sistemas no IFPE;
+-  Estudando Python, NodeJS, C#, JavaScript, HTML, CSS e estou sempre colocando em prática os conhecimentos adquiridos;
+- Gosto de fazer projetos, onde o intuito sempre é praticar, mas com objetivo em colocar alguma ideia em funcionamento ou resolver algum problema.
+- <strong>Contate-me no email: devneto203@gmail.com</strong>
 
-- 🔭 Hoje estudo Tecnologia em Análise e Desenvolvimento de Sistemas no IFPE
-- 🌱 Estudando Python, Java, C#, JavaScript, HTML, CSS
-- 📫 Contate-me no email: devneto203@gmail.com
-- 😄 Pronouns: ele/dele
-
+## Estatísticas do GitHub ⚡
 <div align="center">
   <a href="https://github.com/Neto-Pereira25">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Neto-Pereira25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neto-Pereira25&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="icone do javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    
-  <img align="center" alt="icone do html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="icone do css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="icone do python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-  <img align="center" alt="icone do c sharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-
-  <img align="center" alt="icone do java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  
+## Linguagens e Ferramentas 💻
+<div align="center">
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="40" height="40"/> </a>
+<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a>
 </div>
 
-## 
+<div align="center">
+<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a>
+</div>
+
+<div align="center">
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgres" width="40" height="40"/> </a>
+</div>
+
+## Contate me 📫
 
 <div>
   <a href="https://instagram.com/neto_pereira21" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
