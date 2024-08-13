@@ -42,8 +42,15 @@
 ## Meus Projetos
 ### Landing Page
 <p>
-  Este projeto consiste numa landing page com design responsivo, onde coloquei em prática meus conhecimentos na parte de <b>HTML5</b> e <b>CSS3</b>
+  Este projeto consiste numa landing page com design responsivo, onde coloquei em prática meus conhecimentos na parte de <b>HTML5</b> e <b>CSS3</b>.
   <a href="http://estudoswebjosenetolandingpage.netlify.app" target="_blank">Acessar Landing Page</a>
+</p>
+
+### (De)Codificador de Texto
+
+<p>
+  Este projeto é fruto de um desafio da Alura em parceria com a Oracle do programa ONE (Oracle Next Education) em que desenvolvi um sistema web com <b>HTML5</b>, <b>CSS3</b> e <b>JavaScript</b> para criptografar e descriptografar textos.
+  <a href="https://decodificador-programa-one-jpsn.vercel.app/" target="_blank">Acessar (De)Codificador de Texto</a>
 </p>
 
 ##
