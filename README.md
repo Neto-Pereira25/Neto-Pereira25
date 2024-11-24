@@ -2,7 +2,7 @@
 
 -  Hoje estudo Tecnologia em Análise e Desenvolvimento de Sistemas no IFPE;
 -  Estudando Python, NodeJS, C#, JavaScript, HTML, CSS e estou sempre colocando em prática os conhecimentos adquiridos;
-- Gosto de fazer projetos, onde o intuito sempre é praticar, mas com objetivo em colocar alguma ideia em funcionamento ou resolver algum problema.
+- Gosto de fazer projetos, onde o intuito sempre é praticar, mas com objetivo de colocar alguma ideia em funcionamento ou resolver algum problema.
 - <strong>Contate-me no email: devneto203@gmail.com</strong>
 
 ## Estatísticas do GitHub ⚡
