@@ -55,17 +55,24 @@
 </div>
 
 ## Meus Projetos
-### Landing Page
+### 📰 Landing Page
 <p>
   Este projeto consiste numa landing page com design responsivo, onde coloquei em prática meus conhecimentos na parte de <b>HTML5</b> e <b>CSS3</b>.
   <a href="http://estudoswebjosenetolandingpage.netlify.app" target="_blank">Acessar Landing Page</a>
 </p>
 
-### (De)Codificador de Texto
+### 🧩 (De)Codificador de Texto
 
 <p>
   Este projeto é fruto de um desafio da Alura em parceria com a Oracle do programa ONE (Oracle Next Education) em que desenvolvi um sistema web com <b>HTML5</b>, <b>CSS3</b> e <b>JavaScript</b> para criptografar e descriptografar textos.
   <a href="https://decodificador-programa-one-jpsn.vercel.app/" target="_blank">Acessar (De)Codificador de Texto</a>
+</p>
+
+### ⏳ Pomodoro App
+
+<p>
+Pomodoro App – Um timer de produtividade baseado na Técnica Pomodoro, desenvolvido com React + TypeScript. Desde de que ingressei na área de TI senti a necessidade de gerenciar meus ciclos de trabalho e descanso de forma simples e eficiente, e agora com este App eu consigo me organizar para obter uma melhor produtividade com estatísticas em tempo real do tempo de trabalho. Além disso, esta aplicação possui alertas sonoros para me avisar quando descansar e quando trabalhar e uma interface amigável, sendo ideal para quem quer focar, produzir mais e acompanhar sua evolução.
+  <a href="https://pomodoro-app-eight-theta.vercel.app/" target="_blank">Acessar Pomodoro App</a>
 </p>
 
 ##
