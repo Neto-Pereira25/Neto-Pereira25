@@ -36,6 +36,9 @@
   <a href="https://nextjs.org/" target="_blank">   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" />              
   </a>
+  <a  href="https://www.java.com/pt-BR/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
+  </a>
   <a  href="https://spring.io/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
   </a>
