@@ -14,7 +14,8 @@
 
 ## Linguagens e Ferramentas 💻
 <div align="center">
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
+           </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank">
@@ -30,7 +31,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank">   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank">   
@@ -76,6 +77,12 @@
 <p>
 Pomodoro App – Um timer de produtividade baseado na Técnica Pomodoro, desenvolvido com React + TypeScript. Desde de que ingressei na área de TI senti a necessidade de gerenciar meus ciclos de trabalho e descanso de forma simples e eficiente, e agora com este App eu consigo me organizar para obter uma melhor produtividade com estatísticas em tempo real do tempo de trabalho. Além disso, esta aplicação possui alertas sonoros para me avisar quando descansar e quando trabalhar e uma interface amigável, sendo ideal para quem quer focar, produzir mais e acompanhar sua evolução.
   <a href="https://pomodoro-app-eight-theta.vercel.app/" target="_blank">Acessar Pomodoro App</a>
+</p>
+
+### 🎮 Jogo da Velha (Tic Tac Toe)
+<p>
+Jogo da Velha (Tic Tac Toe) - Reviver a simplicidade e a diversão do Jogo da Velha foi uma experiência nostálgica e empolgante. Desenvolver este projeto com React, useContext e useReducer trouxe não só desafios técnicos, mas também boas lembranças de uma brincadeira atemporal. A proposta é simples: dois jogadores, um tabuleiro 3x3 e a missão de alinhar três símbolos. Mas agora com uma interface moderna, responsiva e recheada de funcionalidades que tornam a experiência ainda mais completa. Foi divertido construir — e mais ainda jogar. Espero que você se divirta tanto quanto eu.
+  <a href="https://tictactoe-react-app-six.vercel.app/" target="_blank">Acessar Jogo</a>
 </p>
 
 ##
