@@ -1,7 +1,7 @@
 # Olá! Eu sou o José Neto!
 
 -  Cursando Tecnologia em Análise e Desenvolvimento de Sistemas no IFPE;
--  Estagiário da Compesa como desenvolvedor fullstack;
+-  Back-End Developer na Avanade;
 - Gosto de fazer projetos, onde o intuito sempre é praticar, mas com objetivo resolver problemas reais do dia a dia.
 - <strong>Contate-me no email: devneto203@gmail.com</strong>
 
